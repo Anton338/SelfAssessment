@@ -33,20 +33,20 @@
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with node:crypto.scrypt
-  - Web Crypto API
-  - File system API: sync and async
-  - Copy folder recursively
+  - Streams API: 🎓 known
+  - Web Streams API: 👂 heard
+  - Crypto API: 🎓 known
+  - Password hashing with node:crypto.scrypt 
+  - Web Crypto API: 👂 heard
+  - File system API: sync and async: 👂heard
+  - Copy folder recursively: 🎓 known
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
-  - Deprecated domain API
+  - Deprecated domain API: 👂 heard
   - Node.js single executable
   - Stream back pressure
   - SharedArrayBuffer
@@ -54,7 +54,7 @@
   - node:child_process
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
+  - Generating crypto random UUID: 🖐️ used
   - node:url vs new URL
   - node:assert
   - Internationalization
@@ -70,60 +70,60 @@
   - SOLID
   - GoF patterns
   - Distributed systems
-  - Highload applications
-  - Clean architecture
+  - Highload applications: 👂heard
+  - Clean architecture: 👂heard
   - DDD
   - Message Queue
   - CQS
   - CQRS
-  - Event sourcing
-  - Load balancing
-  - Serverless clouds
-  - FaaS clouds
-  - Fat controller
+  - Event sourcing 
+  - Load balancing 
+  - Serverless clouds 
+  - FaaS clouds 
+  - Fat controller 
   - GoF for Node.js
-  - Leaking abstractions
+  - Leaking abstractions 
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 🎓 known
+  - Websocket: 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🎓 known
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing: 🎓 known
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 👂 heard
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 👂 heard
   - noDelay
-  - keep-alive
+  - keep-alive: 👂 heard
   - ALPN
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 🎓 known
   - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Testing: 🎓 known
+  - CI/CD: 👂 heard
+  - Readable: 👂 heard
+  - Writable:👂 heard
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 🎓 known
+  - Console: 🎓 known
   - Inspector
   - Reliability
   - Quality
@@ -131,24 +131,24 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 🎓 known
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error: 🎓 known
+  - error.cause 
+  - error.code 
+  - error.message 
+  - error.stack 
   - How to avoid mixins
-  - Error.captureStackTrace
+  - Error.captureStackTrace 
   - Uncaught exceptions
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks: 👂 heard
+  - Resource leaks: 👂 heard
   - Data race
 - Integrations and bindings
   - Native addons

@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 👂 heard
-  - try..catch 🎓 known
-  - Non-blocking 👂 heard
-  - Async I/O 👂 heard
+  - Event loop: 👂 heard
+  - try..catch: 🎓 known
+  - Non-blocking: 👂 heard
+  - Async I/O: 👂 heard
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -16,23 +16,23 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming 👂 heard
-  - Parallel programming 👂 heard
+  - Concurrent programming: 👂 heard
+  - Parallel programming: 👂 heard
   - Actor Model
   - Thread
   - Process
 - Async contracts
-  - Callbacks 🎓 known
-  - Callback-last-error-first 🎓 known
+  - Callbacks: 🎓 known
+  - Callback-last-error-first: 🎓 known
   - Thenable
-  - Promise 👂 heard
-  - Async/await 👂 heard
+  - Promise: 👂 heard
+  - Async/await: 👂 heard
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event 👂 heard
+  - Event: 👂 heard
   - Coroutine
   - Goroutine
   - Signal
